@@ -1,0 +1,16 @@
+.first{
+    background-color: blue ;
+    color: cornsilk;
+}
+.second{
+    background-color: darkgreen;
+    color: darkgrey;
+}
+.third{
+    background-color: darkgrey;
+    color: cornsilk;
+}
+@media screen (max: width 1024px){
+    
+
+    
